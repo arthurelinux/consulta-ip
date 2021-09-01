@@ -1,0 +1,50 @@
+:root{
+    --color-navbar:#5c4595;
+    --color-primary-hover:#362464;
+    --ternary-color:#5c4595;
+    --ternary-color-to:#44946C;
+    --ternary-color-primary: #F5A102;
+    --ternary-color-secondary: #50EB02;
+    --ternary-color-full:#DE0949;
+}
+.mercadopago-button{
+    
+    background-color: var(--ternary-color) !important;;
+    color: #f5f5f5 !important;;
+}
+.mercadopago-button:hover{
+    background-color: var(--color-primary-hover) !important;;
+    color: #fdeded !important;;
+}
+.navbar{
+    background-color: var(--color-navbar);
+}
+body{
+    background-color: #f5f5f5;
+}
+.btn-ternary-to{
+    background-color: var(--ternary-color-to);
+    color: #f5f5f5;
+
+}
+.btn-ternary-to:hover{
+    background-color: #39815d;
+    color: #f5f5f5;
+}
+
+.btn-ternary{
+    background-color: var(--ternary-color);
+    color: #f5f5f5;
+}
+.btn-ternary:hover{
+    background-color: var(--color-primary-hover);
+    color: #fdeded;
+}
+.planos{
+    background-color: var(--color-primary-hover);
+    color: #fdeded;
+
+}
+footer{
+    background-color: #362464;
+}

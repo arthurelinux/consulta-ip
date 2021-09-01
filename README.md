@@ -1,4 +1,6 @@
-# ip
+# Consulta IP
+
+Aplicação Vue.js para consultar detalhes do IP de um servidor ou de uma máquina local, trazendo detalhes sobre o mesmo. 
 
 ## Project setup
 ```
